@@ -1,2 +1,2 @@
 # PlotlyExamples
-![alt text](https://raw.githubusercontent.com/avandemotter/PlotlyExamples/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/avandemotter/PlotlyExamples/blob/master/pictures/ellipsoids.png)
